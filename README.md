@@ -6,6 +6,12 @@ Startupová recese vytvořená v Reactu s Tailwindem a láskou ke vzduchu.
 
 ---
 
+## 🌐 Live demo
+
+🔗 [stavazevzduchu.netlify.app](https://stavazevzduchu.netlify.app)
+
+---
+
 ## 🌬️ O projektu
 
 **Šťáva ze vzduchu** je vtipný (ale seriózně vypadající) single-page web, který prezentuje fiktivní nápoj získaný molekulární extrakcí ze vzduchu.
@@ -38,4 +44,3 @@ cd stava-ze-vzduchu
 npm install
 npm run dev
 
-```
