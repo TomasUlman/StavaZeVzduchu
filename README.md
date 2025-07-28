@@ -26,7 +26,7 @@ Slouží jako:
 
 ## 🛠 Použité technologie
 
-- [React](https://reactjs.org/) (v19)
+- [React](https://reactjs.org/) 
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Router](https://reactrouter.com/)
